@@ -26,5 +26,11 @@ public class CommentRemover {
 
         // Print the code without comments
         System.out.println(codeWithoutComments);
+        System.out.println(codeWithoutComments);
+
+        System.out.println(codeWithoutComments);
+
+        System.out.println(codeWithoutComments);
+
     }
 }
